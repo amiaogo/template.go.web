@@ -3,10 +3,10 @@ package main
 import (
 	"flag"
 	"fmt"
-	"gitee.com/piupuer/go/tools"
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/logs"
 	"github.com/astaxie/beego/orm"
+	"mskj.go/tools"
 	"path/filepath"
 	"strings"
 	_ "template.go.web/web"
